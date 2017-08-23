@@ -1,31 +1,19 @@
 # HSE-Font
 
-
-
 Declaring the font-face
 
-
-
     @font-face {
-
       font-family: "hsefont";
-
       src: url("hsefont.ttf");
-
     }
 
     
 
 Using the font:
 
-
-
     html {
-
       font-family: "myFont", "Bitstream Vera Serif", serif;
-
     }
-
 
 
 Icons
