@@ -1,2 +1,3 @@
-# hse-font
+# HSE-Font
+
 HSE Font
