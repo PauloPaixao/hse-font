@@ -1,23 +1,53 @@
 # HSE-Font
 
-Declaring the font-face
+## Formats 
+Fontface for HSE in format:
+- TTF
+- WOFF
+- SVG
+
+## Customizations 
+Customizable sizes and colors;
+
+
+# Usage
+
+Declaring the font-face:
 
     @font-face {
       font-family: "hsefont";
       src: url("hsefont.ttf");
     }
 
-    
-
 Using the font:
 
     html {
-      font-family: "myFont", "Bitstream Vera Serif", serif;
+      font-family: "hsefont", "Bitstream Vera Serif", serif;
     }
 
+CSS customization.
 
-Icons
+        .hse {
+            width: 32px;
+        }
 
+        .hse2x {
+            width: 64px;
+        }
+
+        .hse3x {
+            width: 128px;
+        }
+
+        .hse4x {
+            width: 256px;
+        }
+
+Metadata information about the icons.
+
+# Icons
+
+Example of the icons
 
 | # | Icon | Description |
 |--------|--------|--------|
