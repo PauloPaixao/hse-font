@@ -1,0 +1,10 @@
+
+.hse-verify-guards-in-place:before { content: '\e800'; } /* '' */
+.hse-sound-horn:before { content: '\e801'; } /* '' */
+.hse-use-handrail :before { content: '\e802'; } /* '' */
+.hse-connect-earth-terminal:before { content: '\e803'; } /* '' */
+.hse-attention-mandatory:before { content: '\e805'; } /* '' */
+.hse-use-gas-detector:before { content: '\e806'; } /* '' */
+.hse-wash-hands:before { content: '\e807'; } /* '' */
+.hse-refer-instructions:before { content: '\e808'; } /* '' */
+.hse-wear-opaque-eye-protection:before { content: '\e809'; } /* '' */
