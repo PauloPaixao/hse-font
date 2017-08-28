@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'hse';
-  src: url('../font/hse.eot?89539300');
-  src: url('../font/hse.eot?89539300#iefix') format('embedded-opentype'),
-       url('../font/hse.woff2?89539300') format('woff2'),
-       url('../font/hse.woff?89539300') format('woff'),
-       url('../font/hse.ttf?89539300') format('truetype'),
-       url('../font/hse.svg?89539300#hse') format('svg');
+  src: url('../font/hse.eot?45078437');
+  src: url('../font/hse.eot?45078437#iefix') format('embedded-opentype'),
+       url('../font/hse.woff2?45078437') format('woff2'),
+       url('../font/hse.woff?45078437') format('woff'),
+       url('../font/hse.ttf?45078437') format('truetype'),
+       url('../font/hse.svg?45078437#hse') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'hse';
-    src: url('../font/hse.svg?89539300#hse') format('svg');
+    src: url('../font/hse.svg?45078437#hse') format('svg');
   }
 }
 */
@@ -59,8 +59,26 @@
 .hse-sound-horn:before { content: '\e801'; } /* '' */
 .hse-use-handrail :before { content: '\e802'; } /* '' */
 .hse-connect-earth-terminal:before { content: '\e803'; } /* '' */
+.hse-wear-hardhat:before { content: '\e804'; } /* '' */
 .hse-attention-mandatory:before { content: '\e805'; } /* '' */
 .hse-use-gas-detector:before { content: '\e806'; } /* '' */
 .hse-wash-hands:before { content: '\e807'; } /* '' */
 .hse-refer-instructions:before { content: '\e808'; } /* '' */
 .hse-wear-opaque-eye-protection:before { content: '\e809'; } /* '' */
+.hse-wear-welding-mask:before { content: '\e80a'; } /* '' */
+.hse-wear-safety-harness:before { content: '\e80b'; } /* '' */
+.hse-wear-seat-belt :before { content: '\e80c'; } /* '' */
+.hse-wear-respiratory-protection:before { content: '\e80d'; } /* '' */
+.hse-disconnect-before-repair:before { content: '\e80e'; } /* '' */
+.hse-Wear High Visibility Clothing:before { content: '\e80f'; } /* '' */
+.hse-wear-mask:before { content: '\e810'; } /* '' */
+.hse-secure-gas-cylinder:before { content: '\e811'; } /* '' */
+.hse-use-this-walkway:before { content: '\e812'; } /* '' */
+.hse-wear-protective-clothing:before { content: '\e813'; } /* '' */
+.hse-use-breathing-apparatus:before { content: '\e814'; } /* '' */
+.hse-wear-anti-static-shoes:before { content: '\e815'; } /* '' */
+.hse-wear-eye-protection:before { content: '\e816'; } /* '' */
+.hse-wear-safety-shoes:before { content: '\e817'; } /* '' */
+.hse-wear-face-shield:before { content: '\e818'; } /* '' */
+.hse-disconnect-plug-outlet :before { content: '\e819'; } /* '' */
+.hse-wear-protective-gloves:before { content: '\e81a'; } /* '' */
