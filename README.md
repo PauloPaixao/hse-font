@@ -12,38 +12,23 @@ Customizable sizes and colors;
 
 # Usage
 
-Declaring the font-face:
+Importing the font:
 
-    @font-face {
-      font-family: "hsefont";
-      src: url("hsefont.ttf");
-    }
+	@font-face {
+		  font-family: 'hse';
+		  src: url('./font/hse.eot?21974651');
+		  src: url('./font/hse.eot?21974651#iefix') format('embedded-opentype'),
+			   url('./font/hse.woff?21974651') format('woff'),
+			   url('./font/hse.ttf?21974651') format('truetype'),
+			   url('./font/hse.svg?21974651#hse') format('svg');
+		  font-weight: normal;
+		  font-style: normal;
+		}
 
-Using the font:
+Defining HTML icon
 
-    html {
-      font-family: "hsefont", "Bitstream Vera Serif", serif;
-    }
+	<i class="demo-icon hse-verify-guards-in-place">&#xe800;</i>	
 
-CSS customization.
-
-        .hse {
-            width: 32px;
-        }
-
-        .hse2x {
-            width: 64px;
-        }
-
-        .hse3x {
-            width: 128px;
-        }
-
-        .hse4x {
-            width: 256px;
-        }
-
-Metadata information about the icons.
 
 # Icons
 
@@ -66,12 +51,12 @@ Example of the icons
 |13| ![Wear Safety Harness](hse_svg/file14.svg) | Wear Safety Harness 
 |14| ![Wear Seat Belt](hse_svg/file15.svg) | Wear Seat Belt 
 |15| ![Wear Respiratory Protection](hse_svg/file16.svg) | Wear Respiratory Protection  |  X
-|16| ![Disconect Before Performing Maintainance or Repair](hse_svg/file17.svg) | Disconect Before Performing Maintainance or Repair 
+|16| ![Disconect Before Performing Maintainance or Repair](hse_svg/file17.svg) | Disconnect Before Performing Maintainance or Repair 
 |17| ![Wear High Visibility Clothing](hse_svg/file18.svg) | Wear High Visibility Clothing  
 |18| ![Wear Mask](hse_svg/file19.svg) | Wear Mask  
 |19| ![Secure Gas Cylinder](hse_svg/file20.svg) | Secure Gas Cylinder  |  X
 |20| ![Use This Walkway ](hse_svg/file21.svg) | Use This Walkway  
-|21| ![Wear ProtectiveClothing](hse_svg/file22.svg) | Wear ProtectiveClothing  
+|21| ![Wear ProtectiveClothing](hse_svg/file22.svg) | Wear Protective Clothing  
 |22| ![Use Self-Contained Breathing Apparatus](hse_svg/file23.svg) | Use Self-Contained Breathing Apparatus  
 |23| ![Wear Anti-Static Shoes](hse_svg/file24.svg) | Wear Anti-Static Shoes |  X
 |24| ![Wear Eye Protection](hse_svg/file25.svg) | Wear Eye Protection  
