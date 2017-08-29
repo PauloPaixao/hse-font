@@ -14,7 +14,7 @@
 .hse-wear-seat-belt :before { content: '\e80c'; } /* '' */
 .hse-wear-respiratory-protection:before { content: '\e80d'; } /* '' */
 .hse-disconnect-before-repair:before { content: '\e80e'; } /* '' */
-.hse-Wear High Visibility Clothing:before { content: '\e80f'; } /* '' */
+.hse-wear-high-visibility-clothing:before { content: '\e80f'; } /* '' */
 .hse-wear-mask:before { content: '\e810'; } /* '' */
 .hse-secure-gas-cylinder:before { content: '\e811'; } /* '' */
 .hse-use-this-walkway:before { content: '\e812'; } /* '' */

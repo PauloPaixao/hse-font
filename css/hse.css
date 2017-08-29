@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'hse';
-  src: url('../font/hse.eot?45078437');
-  src: url('../font/hse.eot?45078437#iefix') format('embedded-opentype'),
-       url('../font/hse.woff2?45078437') format('woff2'),
-       url('../font/hse.woff?45078437') format('woff'),
-       url('../font/hse.ttf?45078437') format('truetype'),
-       url('../font/hse.svg?45078437#hse') format('svg');
+  src: url('../font/hse.eot?77640183');
+  src: url('../font/hse.eot?77640183#iefix') format('embedded-opentype'),
+       url('../font/hse.woff2?77640183') format('woff2'),
+       url('../font/hse.woff?77640183') format('woff'),
+       url('../font/hse.ttf?77640183') format('truetype'),
+       url('../font/hse.svg?77640183#hse') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'hse';
-    src: url('../font/hse.svg?45078437#hse') format('svg');
+    src: url('../font/hse.svg?77640183#hse') format('svg');
   }
 }
 */
@@ -70,7 +70,7 @@
 .hse-wear-seat-belt :before { content: '\e80c'; } /* '' */
 .hse-wear-respiratory-protection:before { content: '\e80d'; } /* '' */
 .hse-disconnect-before-repair:before { content: '\e80e'; } /* '' */
-.hse-Wear High Visibility Clothing:before { content: '\e80f'; } /* '' */
+.hse-wear-high-visibility-clothing:before { content: '\e80f'; } /* '' */
 .hse-wear-mask:before { content: '\e810'; } /* '' */
 .hse-secure-gas-cylinder:before { content: '\e811'; } /* '' */
 .hse-use-this-walkway:before { content: '\e812'; } /* '' */
