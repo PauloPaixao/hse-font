@@ -1,5 +1,8 @@
 # HSE-Font
 
+This repository provides fonts for your HSE projects. You can use it for your PowerPoint presentations, documents and Web projcts.
+
+
 ## Formats 
 Fontface for HSE in format:
 - TTF
@@ -7,6 +10,7 @@ Fontface for HSE in format:
 - SVG
 
 ## Customizations 
+
 Customizable sizes and colors;
 
 
@@ -95,3 +99,15 @@ Icon list below.
 |57| ![Battery Charging](hse_svg/sign29.svg) | Battery Charging
 |58| ![Biological Hazard](hse_svg/sign30.svg) | Biological Hazard
 |59| ![Overhead Loads](hse_svg/sign31.svg) | Overhead Loads
+
+# Feedback 
+
+I am available:
+
+| Availble at: | Link                                 |
+| ------------ | ------------------------------------ |
+| Twitter      | https://twitter.com/paulospx         |
+| LinkedIn     | https://www.linkedin.com/in/ppaixao/ |
+
+Coded with ❤
+
