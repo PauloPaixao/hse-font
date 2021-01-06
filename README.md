@@ -32,7 +32,7 @@ Defining HTML icon
 
 # Icons
 
-Example of the icons
+Icon list below.
 
 | # | Icon | Description |
 |--------|--------|--------|
