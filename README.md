@@ -102,7 +102,7 @@ Icon list below.
 
 # Feedback 
 
-I am available:
+Your feedback is welcome.
 
 | Availble at: | Link                                 |
 | ------------ | ------------------------------------ |
